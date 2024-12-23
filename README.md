@@ -1,4 +1,4 @@
-# ALS Genetic-Aging Interaction Analysis Tool
+# ALS-Aging Genetic Interaction Analysis Tool
 
 ## Introduction
 Amyotrophic lateral sclerosis (ALS) is a progressive neurodegenerative disease with age as its primary risk factor. The interplay between age-related genetic changes and the ALS genetic background is hypothesized to accelerate disease pathology. Analyzing differential gene expression data to uncover genes impacted by aging and ALS provides critical insights into this interaction. However, existing tools often require significant manual effort and lack tailored functionalities for comparing aging-related genes with ALS-associated genes.
